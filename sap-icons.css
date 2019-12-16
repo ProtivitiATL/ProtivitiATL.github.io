@@ -2,9 +2,9 @@
 @font-face {
   font-family: 'SAP Fiori Icons';
   src:
-    url('/fonts/SAP-icons.woff2') format('woff2'),
-    url('/fonts/SAP-icons.woff') format('woff'),
-    url('/fonts/SAP-icons.ttf') format('truetype');
+    url('https://protivitiatl.github.io/fonts/SAP-icons.woff2') format('woff2'),
+    url('https://protivitiatl.github.io/fonts/SAP-icons.woff') format('woff'),
+    url('https://protivitiatl.github.io/fonts/SAP-icons.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
