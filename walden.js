@@ -21,10 +21,10 @@
     }
     echarts.registerTheme('walden', {
         "color": [
-            "#a0a7e6",
-            "#c4ebad",
             "#3fb1e3",
             "#6be6c1",
+            "#a0a7e6",
+            "#c4ebad",
             "#626c91",
             "#96dee8"
         ],
