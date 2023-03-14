@@ -31,7 +31,7 @@
 
   <script type="text/javascript">
     var dom = document.getElementById('container');
-    var myChart = echarts.init(dom, 'dark', {
+    var myChart = echarts.init(dom, 'walden', {
       renderer: 'canvas',
       useDirtyRect: false
     });
@@ -210,7 +210,7 @@ const barOption = {
         enabled: true,
         seriesKey: ['Road-Bike', 'Mountain-Bike'],
         delay: function (idx, count) {
-          return Math.random() * 600;
+          return Math.random() * 200;
         }
       }
     }
