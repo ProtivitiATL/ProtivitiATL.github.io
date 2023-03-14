@@ -35,7 +35,7 @@
                 "color": "#666666"
             },
             "subtextStyle": {
-                "color": "#fffffff"
+                "color": "#ffffff"
             }
         },
         "line": {
@@ -196,7 +196,7 @@
             },
             "axisLabel": {
                 "show": true,
-                "color": "#fffffff"
+                "color": "#ffffff"
             },
             "splitLine": {
                 "show": true,
@@ -231,7 +231,7 @@
             },
             "axisLabel": {
                 "show": true,
-                "color": "#fffffff"
+                "color": "#ffffff"
             },
             "splitLine": {
                 "show": true,
@@ -266,7 +266,7 @@
             },
             "axisLabel": {
                 "show": true,
-                "color": "#fffffff"
+                "color": "#ffffff"
             },
             "splitLine": {
                 "show": true,
@@ -301,7 +301,7 @@
             },
             "axisLabel": {
                 "show": true,
-                "color": "#fffffff"
+                "color": "#ffffff"
             },
             "splitLine": {
                 "show": true,
@@ -323,7 +323,7 @@
         },
         "toolbox": {
             "iconStyle": {
-                "borderColor": "#fffffff"
+                "borderColor": "#ffffff"
             },
             "emphasis": {
                 "iconStyle": {
@@ -333,7 +333,7 @@
         },
         "legend": {
             "textStyle": {
-                "color": "#fffffff"
+                "color": "#ffffff"
             }
         },
         "tooltip": {
@@ -396,7 +396,7 @@
             "handleColor": "#cccccc",
             "handleSize": "100%",
             "textStyle": {
-                "color": "#fffffff"
+                "color": "#ffffff"
             }
         },
         "markPoint": {
